@@ -25,6 +25,6 @@ int main()
         cout<<"The number is not a armstrong number"<<endl;
     }
     
-    
+    return 0;
     
 }
