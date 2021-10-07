@@ -38,7 +38,9 @@ int main(){
     
     int num,len;
     
-    num = 1634;
+    printf("*****enter a number to check armstrong*****\n");
+    
+    scanf("%d",&num);
     
     len = numlen(num);
     
