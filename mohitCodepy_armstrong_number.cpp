@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  int number=8209, copy_num, remainder, total_digit_sum = 0, num_of_digits = 0;
+  int number, copy_num, remainder, total_digit_sum = 0, num_of_digits = 0;
   cout<<"\t\tProgram to check armstrong number of n digits:\n"<<endl;
   cout<<"Enter the number here : "<<endl;
   cin>>number;
