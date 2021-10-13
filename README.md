@@ -29,7 +29,7 @@ As of now you must have got the idea how to create a pull request. Now you can c
 |addition | simple programme to add two numbers.|  
 |subtraction | simple programme to find difference of two numbers.|
 |multiplication | simple programme to multiply two numbers.  |
-|division | simple programme to divide one numer by another number.|  
+|division | simple programme to divide one number by another number.|  
   
 ## What if I want to like to contribute in other languages 
 ### Contribute in other languages  
