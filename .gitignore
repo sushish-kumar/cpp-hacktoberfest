@@ -1,0 +1,4 @@
+# ignore common binary files
+*.exe
+*.exe~
+*.out
